@@ -218,3 +218,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+
+.python-version
+Confidential_LeicaLMD_xml-ImportXtract_V8.5_MC-0010076.pdf
+*.ipynb
+qupath/
